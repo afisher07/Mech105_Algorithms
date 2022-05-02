@@ -1,4 +1,4 @@
-# LU Factorization Function
+# LU Function
 LU decomposition with pivotiing
 
 ## Inputs:
