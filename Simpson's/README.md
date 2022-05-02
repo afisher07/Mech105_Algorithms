@@ -1,6 +1,6 @@
 ## Simpson's 1/3 Function
-Numerical evaluation of integral by Simpson's 1/3 Rule
-If there is an odd number of intervals, the trapezoidal rule will be used for the last interval
+* Numerical evaluation of integral by Simpson's 1/3 Rule
+* If there is an odd number of intervals, the trapezoidal rule will be used for the last interval
 
 ## Inputs
 * x: the vector of equally spaced independent variable
