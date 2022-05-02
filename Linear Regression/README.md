@@ -1,7 +1,7 @@
 # Linear Regression Function
 Computes the linear regression of a data set
 
-# Inputs
+# Inputs:
 * x: x-values for our data set
 * y: y-values for our data set
 
